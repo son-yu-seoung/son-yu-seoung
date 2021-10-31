@@ -13,8 +13,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=son-yu-seoung&show_icons=true&theme=shades-of-purple)   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=son-yu-seoung&show_icons=true&theme=shades-of-purple)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thsdbtjd10">
 ---
 ## Contact Me  
 <a href="https://www.instagram.com/sys__01/"> <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
-<a href="yuseoung.son@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>  
+<a href="mailto:yuseoung.son@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>  
