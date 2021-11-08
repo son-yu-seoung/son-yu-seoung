@@ -16,8 +16,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=son-yu-seoung&show_icons=true&theme=shades-of-purple)
-
 
   
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thsdbtjd10">  
