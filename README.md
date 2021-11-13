@@ -16,7 +16,7 @@
 
 ---
 
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thsdbtjd10">  
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thsdbtjd10">   
 
 ---   
 ## Contact Me
