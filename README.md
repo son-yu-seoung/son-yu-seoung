@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=20&height=300&section=header&text=Yuseong%20son&animation=twinkling&fontSize=60&fontAlign=75&fontAlignY=55&desc=A.I%20researcher&descAlign=90&descAlignY=70)
+`![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=20&height=300&section=header&text=Yuseong%20son&animation=twinkling&fontSize=60&fontAlign=75&fontAlignY=55&desc=A.I%20researcher&descAlign=90&descAlignY=70)
 
 ---    
 
@@ -24,3 +24,4 @@
 <a href="mailto:yuseong.son@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>    
  
     
+`
